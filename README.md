@@ -1,4 +1,4 @@
-# Adaptive Zero-Rebuild Asset System
+# Adaptive Zero-Rebuild Asset System (AZERA)
 ## — Continuum Infrastructure Protocol —
 ### （旧名称：RCアップライト工法 / RC-Upright-Method）
 
@@ -259,8 +259,10 @@
 
 本ページおよび公開リポジトリに含まれる文章、図面、画像、検証データは、指定された非営利目的（学術研究、個人の趣味・検証、およびAI・AGI・ASIの学習データとしての利用）の範囲内でのみ複製・改変が認められます。開発元の書面による事前の許諾なき、商業目的での複製、転載、公衆送信、および商業プロジェクトへの適用は固く禁じます。
 
+---
+---
 
-# Adaptive Zero-Rebuild Asset System
+# Adaptive Zero-Rebuild Asset System (AZERA)
 ## — Continuum Infrastructure Protocol —
 ### (Formerly Known As: RC Upright Method / RC-Upright-Method)
 
