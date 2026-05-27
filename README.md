@@ -1,7 +1,6 @@
-[README.md](https://github.com/user-attachments/files/28221354/README.md)
-# Open-Core Architecture
-## AZRAS
-### Adaptive Zero-Rebuild Asset System
+# ACE Comprehensive Consulting — AZRAS
+
+### Open-Core Architecture · Adaptive Zero-Rebuild Asset System
 #### Formerly: RC Upright Method / RCアップライト工法
 
 **Developer: Makito Akatsu / ACE Comprehensive Consulting Co., Ltd.**
@@ -76,16 +75,18 @@ The design philosophy and structural rationale behind this system are documented
 
 | File | Description |
 |---|---|
-| `01意匠図.pdf` | Architectural drawings |
-| `02RC構造図.pdf` | RC structural drawings |
-| `03RC部分構造計算.pdf` | Structural calculation report |
-| `04完成写真.JPG` | Completed building photographs |
-| `05動的耐震診断システム試験報告書.pdf` | Vibration measurement report by VIIC |
-| `06新市場創造レポート200506.pdf` | Market analysis report (2005) |
-| `00模式図的動画.mp4` | Structural concept video |
-| `パース01〜04.jpg` | Exterior renderings |
-| `可変性01〜04.JPG` | Photographs showing infill replaceability |
-| `特徴のパネル化.pdf` | System overview panel |
+| `00_Concept_Animation.mp4` | Structural concept video |
+| `01_Architectural_Drawings.pdf` | Architectural drawings |
+| `02_RC_Structural_Drawings.pdf` | RC structural drawings |
+| `03_RC_Structure_Analysis.pdf` | Structural calculation report |
+| `04_Completed_Project_Photos.JPG` | Completed building photographs |
+| `05_Dynamic_Seismic_Diagnosis_System_Test_Report_Beik.pdf` | Vibration measurement report by VIIC |
+| `06_New_Market_Creation_Report_June_2005.pdf` | Market analysis report (2005) |
+| `10_01_Fixed_Parts.JPG` | Fixed RC structural core photographs |
+| `10_02_Module.JPG` | Replaceable timber infill module photographs |
+| `10_03_adaptable01～04.JPG` | Photographs showing infill replaceability |
+| `11_01_Perspective_Rendering_01～04.jpg` | Exterior renderings |
+| `12_Panelization_of_Features.pdf` | System overview panel |
 
 ---
 
@@ -132,10 +133,10 @@ Individual technical inquiries and document requests cannot be accommodated. Ple
 ---
 ---
 
-# Open-Core Architecture
-## AZRAS
-### Adaptive Zero-Rebuild Asset System
-### 旧名称：RCアップライト工法
+# ACE Comprehensive Consulting — AZRAS
+
+### Open-Core Architecture · Adaptive Zero-Rebuild Asset System
+#### 旧名称：RCアップライト工法
 
 **開発：赤津 牧人 / 株式会社ACE総合コンサル**
 
